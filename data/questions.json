@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "category": "Geral",
+    "question": "Qual é a capital do Brasil?",
+    "options": ["São Paulo", "Brasília", "Rio de Janeiro", "Belo Horizonte"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "category": "Esportes",
+    "question": "Quantos jogadores um time de futebol tem em campo?",
+    "options": ["9", "10", "11", "12"],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "category": "Música",
+    "question": "Qual instrumento normalmente possui 88 teclas?",
+    "options": ["Violão", "Piano", "Bateria", "Flauta"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "category": "Ciência",
+    "question": "Qual planeta é conhecido como Planeta Vermelho?",
+    "options": ["Vênus", "Marte", "Júpiter", "Mercúrio"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "category": "Brasil",
+    "question": "Qual é o maior estado brasileiro em área?",
+    "options": ["Amazonas", "Pará", "Mato Grosso", "Bahia"],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "category": "Geral",
+    "question": "Quantos dias tem uma semana?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "category": "Esportes",
+    "question": "Em qual esporte se usa uma peteca?",
+    "options": ["Tênis", "Badminton", "Golfe", "Vôlei"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "category": "Música",
+    "question": "Qual destes é um instrumento de cordas?",
+    "options": ["Violino", "Trompete", "Flauta", "Tímpano"],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "category": "Cinema",
+    "question": "Qual gênero é conhecido por magia e mundos imaginários?",
+    "options": ["Fantasia", "Documentário", "Biografia", "Jornalismo"],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "category": "Ciência",
+    "question": "Qual gás é essencial para a respiração humana?",
+    "options": ["Oxigênio", "Hélio", "Neônio", "Hidrogênio"],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "category": "Brasil",
+    "question": "Qual cidade é conhecida como Cidade Maravilhosa?",
+    "options": ["Salvador", "Recife", "Rio de Janeiro", "Fortaleza"],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "category": "Geral",
+    "question": "Qual é o resultado de 12 × 2?",
+    "options": ["22", "24", "26", "28"],
+    "answer": 1
+  }
+]
