@@ -1,0 +1,10 @@
+{
+  "name": "desafio24",
+  "version": "1.2.0",
+  "private": true,
+  "description": "DESAFIO 24 - jogo de perguntas e desafios",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "pg": "^8.16.3" }
+}
